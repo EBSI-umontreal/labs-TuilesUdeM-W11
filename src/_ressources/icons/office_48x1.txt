@@ -1,0 +1,1 @@
+Source : https://developer.microsoft.com/en-us/fluentui#/styles/web/office-brand-icons
